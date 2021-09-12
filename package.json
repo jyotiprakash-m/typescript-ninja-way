@@ -1,0 +1,12 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Let`s run typescript",
+  "main": "sandbox.js",
+  "scripts": {
+    "convert": "tsc sandbox.ts sandbox.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
